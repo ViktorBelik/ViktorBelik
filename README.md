@@ -1,22 +1,20 @@
 # Hi, I'm Viktor Belik 👋
 
-### Python Developer / AI Engineer
+### Python Backend Developer | AI Engineer
 
-I build **backend services, APIs, AI assistants and automation tools** with Python.
-
-My main focus is **Python backend development and AI engineering** — LLM integrations, RAG, AI agents, external APIs and business automation.
+I build backend services, APIs, AI assistants and automation tools with Python.
 
 ### 🛠️ Tech Stack
 
 **Backend:** Python, FastAPI, Django, Django REST Framework,  REST API
 
-**Frontend:** React, JavaScript, CSS
-
-**Databases:** PostgreSQL, SQLAlchemy, Alembic, Django ORM
+**Databases:** PostgreSQL, SQLAlchemy, Django ORM, Alembic 
 
 **AI:** LLM, RAG, AI Agents, LangChain, Embeddings, Prompt Engineering
 
 **Infrastructure:** Docker, Docker Compose, Redis, Celery, RabbitMQ, Git
+
+**Frontend:** React, JavaScript, CSS
 
 ### 🚀 Featured Projects
 
@@ -26,7 +24,11 @@ My main focus is **Python backend development and AI engineering** — LLM integ
 
 ### 🎯 Currently Learning
 
-**FastAPI & Async Python · Celery & Kafka · LLM applications · RAG & Vector Search · AI Agents & MCP · AI-powered automation · Next.js**
+* FastAPI & asynchronous Python
+* RAG & vector search
+* LLM applications and AI agents
+* AI automation and integrations
+* Kafka and MCP
 
 ### 💡 Interested In
 
