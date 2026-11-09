@@ -17,7 +17,7 @@ I build backend services, APIs, AI assistants and automation tools with Python.
 **Frontend:** React, JavaScript, CSS
 
 ### 🚀 Featured Projects
-
+* 📤 **[Business Workflow Automation Platform](https://github.com/ViktorBelik/business-workflow-platform)** — FastAPI, PostgreSQL, SQLAlchemy, RabbitMQ, AI, Redis, Pydantic, Docker
 * 🧾 **[Receipt Promo Platform](https://github.com/ViktorBelik/receipt-promo-platform)** — Django, PostgreSQL, React, Docker
 * 🛒 **[Django E-commerce](https://github.com/ViktorBelik/django-ecommerce)** — Django, DRF, PostgreSQL, Redis, Docker
 * 📊 **[Computer Vision Dataset Tools](https://github.com/ViktorBelik/computer-vision-dataset-tools)** — Python, COCO, YOLO
